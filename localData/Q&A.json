@@ -1,0 +1,400 @@
+{
+    "粮食作物": [
+      {
+        "value": "501",
+        "label": "小麦",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "502",
+        "label": "玉米",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "503",
+        "label": "土豆",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "504",
+        "label": "大豆",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "505",
+        "label": "荞麦",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "506",
+        "label": "花生",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "507",
+        "label": "油菜",
+        "selected":false,
+        "flag":false
+      }
+    ],
+    "蔬菜": [
+      {
+        "value": "508",
+        "label": "芹菜",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "509",
+        "label": "尖椒",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "510",
+        "label": "莲花白",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "511",
+        "label": "白菜",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "512",
+        "label": "黄瓜",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "513",
+        "label": "豇豆",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "514",
+        "label": "白萝卜",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "515",
+        "label": "大蒜",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "516",
+        "label": "豆角",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "517",
+        "label": "韭菜",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "518",
+        "label": "苦瓜",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "519",
+        "label": "西兰花",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "520",
+        "label": "大葱",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "521",
+        "label": "洋葱",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "522",
+        "label": "生姜",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "523",
+        "label": "莴笋",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "524",
+        "label": "西红柿",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "525",
+        "label": "青椒",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "526",
+        "label": "茄子",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "527",
+        "label": "冬瓜",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "528",
+        "label": "菜花",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "529",
+        "label": "莲藕",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "530",
+        "label": "香菜",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "531",
+        "label": "香菇",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "532",
+        "label": "西葫芦",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "533",
+        "label": "小白菜",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "534",
+        "label": "西洋芹",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "535",
+        "label": "红萝卜",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "536",
+        "label": "平菇",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "537",
+        "label": "金针菇",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "538",
+        "label": "青菜",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "539",
+        "label": "油麦菜",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "540",
+        "label": "生菜",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "541",
+        "label": "黄豆芽",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "542",
+        "label": "甘蓝",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "543",
+        "label": "菠菜",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "544",
+        "label": "蒜苔",
+        "selected":false,
+        "flag":false
+      }
+    ],
+    "水果": [
+      {
+        "value": "545",
+        "label": "苹果",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "546",
+        "label": "梨",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "547",
+        "label": "葡萄",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "548",
+        "label": "桃",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "549",
+        "label": "红枣",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "550",
+        "label": "杏",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "551",
+        "label": "柿子",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "552",
+        "label": "猕猴桃",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "553",
+        "label": "石榴",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "554",
+        "label": "樱桃",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "555",
+        "label": "西瓜",
+        "selected":false,
+        "flag":false
+      }
+    ],
+    "畜牧": [
+      {
+        "value": "556",
+        "label": "奶牛",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "557",
+        "label": "黄牛",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "558",
+        "label": "羊",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "559",
+        "label": "兔",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "560",
+        "label": "马",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "561",
+        "label": "驴",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "562",
+        "label": "鸡",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "563",
+        "label": "鸭",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "564",
+        "label": "鹅",
+        "selected":false,
+        "flag":false
+      },
+      {
+        "value": "565",
+        "label": "猪",
+        "selected":false,
+        "flag":false
+      }
+    ]
+  }

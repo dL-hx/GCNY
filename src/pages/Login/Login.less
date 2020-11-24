@@ -1,0 +1,41 @@
+@import '~antd/lib/style/themes/default.less';
+
+.main {
+  width: 70%;
+  height: 420px;
+  background-color: #fff;
+  border-radius: 10px;
+  margin: 0 auto;
+  padding: 40px;
+  display: flex;
+  overflow: hidden;
+}
+.main p {
+  font-size: 25px;
+  margin: 10px 0;
+}
+@media screen and (max-width: 576px) {
+  .main {
+    width: 95%;
+  }
+}
+.main .icon {
+  margin-left: 16px;
+  color: rgba(0, 0, 0, 0.2);
+  font-size: 24px;
+  vertical-align: middle;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+.main .icon:hover {
+  color: #1890ff;
+}
+.main .other {
+  margin-top: 24px;
+  line-height: 22px;
+  text-align: left;
+}
+.main .other .register {
+  float: right;
+}
+

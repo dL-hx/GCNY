@@ -1,0 +1,40 @@
+.padding-Class {
+  padding: 16px 20px;
+}
+
+
+@white: #fff;
+
+.header {
+  background-color: @white;
+  margin-bottom: 20px;
+  &:extend(.padding-Class);
+  display: flex;
+  align-items: center;
+}
+
+.btn-option-section {
+  background-color: #fff;
+  margin-bottom: 10px;
+  &:extend(.padding-Class);
+
+  display: flex;
+  align-items: center;
+
+  button {
+    margin-right: 10px;
+  }
+}
+
+
+.container {
+  background-color: @white;
+  &:extend(.padding-Class);
+
+  .nums {
+    color: #999;
+    margin: 10px 0;
+    font-size: 12px;
+    &:extend(.paddingClass);
+  }
+}
